@@ -1,0 +1,54 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M115.286 17.7919L126.992 6.08673H140.335V11.5L138.5 13.5" stroke="black" stroke-opacity="0.2"/>
+<path d="M118.33 5.6185L102.176 21.7717H107L123 5.6185" stroke="black" stroke-opacity="0.2"/>
+<path d="M113.179 5.6185L81.3413 37.4566" stroke="black" stroke-opacity="0.2"/>
+<path d="M146.188 21.5375H115.052L112.009 24.5809H100.069L90 35" stroke="black" stroke-opacity="0.2"/>
+<path d="M141.506 18.2601H119.5L128.63 9.13007H134.249" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 148.763 1.40462)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.67052" transform="matrix(-1 0 0 1 158.83 27.3902)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 84.6186 2.80926)" stroke="black" stroke-opacity="0.2"/>
+<circle r="1.40462" transform="matrix(-1 0 0 1 81.4047 7.40462)" fill="black" fill-opacity="0.1"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 81.4047 7.40462)" stroke="black" stroke-opacity="0.2"/>
+<circle r="1.40462" transform="matrix(-1 0 0 1 84.4047 10.4046)" fill="black" fill-opacity="0.1"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 84.4047 10.4046)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 84.6186 2.80926)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 80.4047 38.3931)" stroke="black" stroke-opacity="0.2"/>
+<circle r="1" transform="matrix(-1 0 0 1 51.5 16.5)" stroke="black" stroke-opacity="0.2"/>
+<circle r="1" transform="matrix(-1 0 0 1 63.5 29.5)" stroke="black" stroke-opacity="0.2"/>
+<path d="M88.3961 35.5838C88.3961 36.0834 88.8011 36.4884 89.3007 36.4884C89.8003 36.4884 90.2053 36.0834 90.2053 35.5838C90.2053 35.0842 89.8003 34.6792 89.3007 34.6792C88.8011 34.6792 88.3961 35.0842 88.3961 35.5838Z" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 147.359 21.5376)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 123.48 4.68209)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 114.584 18.7284)" stroke="black" stroke-opacity="0.2"/>
+<circle r="1.40462" transform="matrix(-1 0 0 1 118.798 4.68209)" fill="black" fill-opacity="0.1"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 118.798 4.68209)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 135.185 9.36416)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 142.676 18.2601)" stroke="black" stroke-opacity="0.2"/>
+<circle r="0.904624" transform="matrix(-1 0 0 1 114.116 4.68209)" stroke="black" stroke-opacity="0.2"/>
+<path d="M147.827 1.40463H112.711L103.581 10.5347H92.1099L85.3209 3.74567" stroke="black" stroke-opacity="0.2"/>
+<path d="M151.572 4.21387L158.83 11.4711V26.4538" stroke="black" stroke-opacity="0.2"/>
+<path d="M155.318 12.1735V37.2226" stroke="black" stroke-opacity="0.2"/>
+<rect x="129" y="13" width="11" height="3" fill="black" fill-opacity="0.1"/>
+<path d="M138.931 15.2168L140.803 13.344L141.74 12.4075V6.08673H149.699L153.445 9.8324V11.7052M149.231 14.0463H153.445V12.4075M149.231 12.4075H153.445M153.445 12.4075V11.7052M153.445 11.7052H149.231" stroke="black" stroke-opacity="0.2"/>
+<rect x="144.549" y="8.89597" width="4.68208" height="6.08671" fill="black" fill-opacity="0.1"/>
+<path d="M150.636 26.2197V19.6647L146 15L145.5 14.5" stroke="black" stroke-opacity="0.2"/>
+<path d="M147.5 14.5L152.041 19.1965V26.2197" stroke="black" stroke-opacity="0.2"/>
+<path d="M153.445 26.4537H148.529" stroke="black" stroke-opacity="0.2"/>
+<path d="M158.5 37.5H151.5" stroke="black" stroke-opacity="0.2"/>
+<circle r="1" transform="matrix(-1 0 0 1 56.5 29.5)" stroke="black" stroke-opacity="0.2"/>
+<circle r="1" transform="matrix(-1 0 0 1 12.5 32.5)" stroke="black" stroke-opacity="0.2"/>
+<path d="M0.49995 19C0.49995 19.5523 0.947665 20 1.49995 20C2.05224 20 2.49995 19.5523 2.49995 19C2.49995 18.4477 2.05224 18 1.49995 18C0.947665 18 0.49995 18.4477 0.49995 19ZM7 24.5C7 25.0523 7.44772 25.5 8 25.5C8.55228 25.5 9 25.0523 9 24.5C9 23.9477 8.55228 23.5 8 23.5C7.44772 23.5 7 23.9477 7 24.5ZM4.5 13C4.5 13.5523 4.94772 14 5.5 14C6.05228 14 6.5 13.5523 6.5 13C6.5 12.4477 6.05228 12 5.5 12C4.94772 12 4.5 12.4477 4.5 13Z" stroke="black" stroke-opacity="0.2"/>
+<circle r="1" transform="matrix(-1 0 0 1 49.5 29.5)" stroke="black" stroke-opacity="0.2"/>
+<path d="M100 13.5H57H53.5L52 15.5M52 16.5H97L94 19.5H77L65 32.5H38.5H13.5" stroke="black" stroke-opacity="0.2"/>
+<path d="M46 22H58.5M46 22L30 6M46 22L48 24M58.5 22H59.5M58.5 22H64M48 24H58M48 24L50.5 26.5H53L54 27.5V29.5H55H55.5" stroke="black" stroke-opacity="0.2"/>
+<path d="M48.5 28.5L47 27L36 16H12H8.5L6.5 14" stroke="black" stroke-opacity="0.2"/>
+<path d="M43.5 19.5H73L64 29" stroke="black" stroke-opacity="0.2"/>
+<path d="M84 10.5H44.5H38.5L34.5 6.5M44.5 7.5H81" stroke="black" stroke-opacity="0.2"/>
+<rect x="28.5" y="4.5" width="2" height="2" stroke="black" stroke-opacity="0.2"/>
+<path d="M33 4.5H35V6.5H33V4.5ZM24 4.5H26V6.5H24V4.5Z" stroke="black" stroke-opacity="0.2"/>
+<path d="M45.5 15.5H47.5V17.5H45.5V15.5Z" stroke="black" stroke-opacity="0.2"/>
+<path d="M34.5 28.5H36.5V30.5H34.5V28.5Z" stroke="black" stroke-opacity="0.2"/>
+<path d="M42 7.5H43.5" stroke="black" stroke-opacity="0.2" stroke-width="3" stroke-linecap="round"/>
+<path d="M45 29.5L34.5 19H14.5H12H2.5" stroke="black" stroke-opacity="0.2"/>
+<path d="M48.5 29.5H37" stroke="black" stroke-opacity="0.2"/>
+<path d="M32.5 32.5L22 22H17H16L13.5 24.5H9" stroke="black" stroke-opacity="0.2"/>
+</svg>
